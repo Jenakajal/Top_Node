@@ -1,0 +1,9 @@
+tashing in Git is a feature that allows you to temporarily save changes that are not yet ready to be committed. This is particularly useful when you want to switch branches or pull updates without committing your current changes. Here’s a concise explanation suitable for an interview:
+
+What is Stashing in Git?
+Definition: Stashing is a way to save your uncommitted changes in a stack-like structure, allowing you to revert to a clean working directory while keeping your changes safe for later use.
+
+Key Points:
+Temporary Storage: Stashing temporarily stores changes, including modified tracked files, staged changes, and new files (if specified), without creating a commit.
+
+Use Case: It’s useful when you need to switch branches, pull updates, or work on something else without committing incomplete work
